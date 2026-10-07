@@ -1,4 +1,4 @@
-# End-to-End-AI-Chatbot
+# Medical-AI-Chatbot
 
 The End-to-End Medical Chatbot is an intelligent conversational designed to provide accurate, evidence-based medical information. It combines the power of **Retrieval-Augmented Generation (RAG)** with state-of-the-art language models to ensure responses are grounded in a verified medical documents, minimizing hallucinations and maximizing reliability.
 
