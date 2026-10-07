@@ -16,7 +16,7 @@ Knowledge Base / Document Used: The Gale Encyclopedia of Medicine
 
 https://github.com/user-attachments/assets/8baac02f-8c3c-44fd-8e9e-076193cd1e45
 
-Architecture
+## Architecture
 <img width="384" height="254" alt="image" src="https://github.com/user-attachments/assets/a143933b-88f7-4304-b520-faa095b49578" />
 
 
