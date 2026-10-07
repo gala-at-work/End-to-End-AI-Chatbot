@@ -12,6 +12,14 @@ Knowledge Base / Document Used: The Gale Encyclopedia of Medicine
 ✅ **Enterprise-Grade** Uses GPT-5.6 Luna to generate clear answers grounded in the retrieved medical context
 
 ## Demo
-https://github.com/user-attachments/assets/4c9e8953-50f3-4a5b-bfbf-1a06b11ecee8
+
+
+https://github.com/user-attachments/assets/8baac02f-8c3c-44fd-8e9e-076193cd1e45
+
+Architecture
+<img width="384" height="254" alt="image" src="https://github.com/user-attachments/assets/a143933b-88f7-4304-b520-faa095b49578" />
+
+
+
 
 
